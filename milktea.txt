@@ -1,0 +1,3 @@
+flavors: 
+	Chocolate flavor
+	Strawberry flavor
