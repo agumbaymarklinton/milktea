@@ -1,3 +1,4 @@
 flavors: 
 	Chocolate flavor
 	Strawberry flavor
+	Sanaol
